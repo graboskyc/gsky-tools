@@ -9,7 +9,7 @@ echo
 docker build -t graboskyc/gsky-tools:latest .
 
 echo "Run me like"
-echo "\t docker run --rm -it graboskyc/gsky-tools command"
+echo -e "\t docker run --rm -it graboskyc/gsky-tools command"
 
 echo
 echo "+======================"
