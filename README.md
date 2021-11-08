@@ -6,7 +6,13 @@ Common tools I use regularly
 
 ## Use
 
-`docker run --rm -it graboskyc/gsky-tools command`
+For debian-based:
+
+`docker run --rm -it graboskyc/gsky-tools command` 
+
+or for alpine-based:
+
+`docker run --rm -it graboskyc/gsky-tools:slim command` 
 
 ## Valid Commands
 * Generic
